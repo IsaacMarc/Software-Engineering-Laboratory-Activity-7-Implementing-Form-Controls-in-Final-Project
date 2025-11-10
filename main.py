@@ -78,7 +78,7 @@ def main(page: ft.Page):
         ], alignment=ft.MainAxisAlignment.CENTER)
     ], horizontal_alignment=ft.CrossAxisAlignment.CENTER)
 
-    # =========================
+    # ==========================
     # 2️⃣ BOOKING FORM
     # =========================
     service_type = ft.Dropdown(
